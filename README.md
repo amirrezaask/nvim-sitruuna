@@ -1,2 +1,2 @@
 # Sitruuna.nvim
-Lua fork of (https://github.com/eemed/sitruuna.vim)[Sitruuna.vim]
+Lua fork of [Sitruuna.vim](https://github.com/eemed/sitruuna.vim)
