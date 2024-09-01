@@ -197,13 +197,13 @@ local colors = {
     },
 
     {
-        bg = "#1d2023",
+        bg = "#2b2e30",
         name = "CursorLine"
     },
 
     {
-        bg = "#d1d1d1",
-        fg = "#34373a",
+        bg = "#42474a",
+        fg = "#d1d1d1",
         name = "StatusLine"
     },
 
