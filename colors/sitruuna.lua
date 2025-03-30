@@ -1,6 +1,11 @@
 vim.cmd.highlight("clear")
 vim.g.colors_name = "sitruuna"
 
+---@class HighlightGroup
+---@field bg string
+---@field fg string
+---@field name string
+---@type table<HighlightGroup>
 local colors = {
 	{
 		bg = "#181a1b",
